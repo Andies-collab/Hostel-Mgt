@@ -1,0 +1,3 @@
+[submodule "frontend/hostel-frontend"]
+	path = frontend/hostel-frontend
+	url = https://github.com/Andies-collab/Hostel-Mgt.git
